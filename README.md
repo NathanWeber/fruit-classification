@@ -1,12 +1,6 @@
 
 # Classificação de Frutas com a Rede Neural Convolucional InceptionV3
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
-
-## Equipe
-Nathan Patrike da Luz Weber
-
 ## Descrição do projeto
 
 Este projeto tem como objetivo classificar um conjunto de imagens de frutas utilizando o modelo de rede neural convolucional InvecptionV3
