@@ -12,8 +12,7 @@ Fruits Dataset (Images)
 Disponível em: <https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images?resource=download>
 
 O conjunto de dados contém 360 imagens de 9 tipos diferentes de frutas: maçã, banana, cereja, chickoo, uva, kiwi, manga, laranja e morango. Cada tipo de fruta tem 40 imagens. As imagens estão no formato PNG e possuem diferentes dimensões.
-## Repositório do projeto
-GitHub: <https://github.com/NathanWeber/fruit-classification>
+
 ## Classificador e acurácia
 
 Para classificação das imagens foi usado o modelo de rede neural convolucional InceptionV3 com o framework PyTorch
